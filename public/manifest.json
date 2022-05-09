@@ -2,11 +2,12 @@
   "name": "MijnHvA Companion App",
   "short_name": "MijnHvA",
   "description": "MijnHvA Companion website. Voor studenten, door studenten.",
-  "start_url": "/",
+  "start_url": "../",
   "icons": [
     {
       "src": "icons/windows11/SmallTile.scale-100.png",
-      "sizes": "71x71"
+      "sizes": "71x71",
+      "purpose": "maskable any"
     },
     {
       "src": "icons/windows11/SmallTile.scale-125.png",
@@ -453,7 +454,7 @@
       "sizes": "1024x1024"
     }
   ],
-  "theme_color": "#000000",
+  "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
   "display": "fullscreen",
   "orientation": "portrait"
