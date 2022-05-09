@@ -1,5 +1,5 @@
 # 🖱️ MijnHVA
-![Mockup MijnHvA]()
+![Mockup MijnHvA](https://github.com/JustinLung/performance-matters-companion-app/blob/main/docs/mockup.png?raw=true)
 
 ## 📚 Inhoudsopgave
   * [Beschrijving](#beschrijving)
@@ -16,11 +16,12 @@ Dit is de repo voor de MijnHvA SSR & PWA. Hierbij wordt de content gerenderd op 
 * 📙 HTML
 * 📘 CSS
 * 🚀 JavaScript
-* 💤 REST API
-* ✅ NodeJS
-* 🚄 Express
-* 🎉 EJS
-* 🚧 Service Worker
+* [💤 REST API](https://github.com/fdnd-apis/mijnhva)
+* [✅ NodeJS](https://nodejs.dev/)
+* [🚄 Express](https://expressjs.com/)
+* [🎉 EJS](https://ejs.co/)
+* [🚧 Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+* [📦 Workbox](https://developers.google.com/web/tools/workbox)
 
 ## ⚡ Installatie & Gebruik
 ```
