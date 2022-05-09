@@ -1,10 +1,7 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# 🖱️ MijnHVA
+![Mockup MijnHvA]()
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
-
-## Inhoudsopgave
-
+## 📚 Inhoudsopgave
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
@@ -12,19 +9,38 @@
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+## 📃 Beschrijving
+Dit is de repo voor de MijnHvA SSR & PWA. Hierbij wordt de content gerenderd op de server en kan deze app gedownload worden als een Progressive Web App!
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+## 🔮 Kenmerken
+* 📙 HTML
+* 📘 CSS
+* 🚀 JavaScript
+* 💤 REST API
+* ✅ NodeJS
+* 🚄 Express
+* 🎉 EJS
+* 🚧 Service Worker
 
-## Installatie
+## ⚡ Installatie & Gebruik
+```
+# Cloning the repository
+git clone https://github.com/JustinLung/performance-matters-companion-app.git
 
-## Gebruik
+# Moving to the folder
+cd performance-matters-companion-app
+
+# Install NPM packages
+npm install
+
+# Run local server
+npm run start
+```
 
 ## Bronnen
+- [👫 Team 1: MijnHvA Project](https://github.com/boudewijnbout/mijnhvastudent-companion-startpage-autonomous)
+- [🎨 Styleguide](https://www.figma.com/file/xKeoqRHU91N7f1n43TCtV5/MijnHvA_design_Course_FrontEndDD?node-id=0%3A1)
+- [📚 MijnHvA REST API](https://github.com/fdnd-apis/mijnhva)
 
 ## Licentie
 
