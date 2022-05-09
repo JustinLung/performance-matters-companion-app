@@ -85,10 +85,10 @@
         <h3>Veelgestelde vragen</h3>
         <span class="seperator"></span>
         <section class="faq-section">
-          <% questions.forEach(function(category) { %>
+          <% categories.forEach(function(category) { %>
             <div class="faq-questions">
               <h3>
-                <%= category.title%>
+                <%= category[1][0].title%>
               </h3>
               <% questions.forEach(function(faq){ %>
                 <details>

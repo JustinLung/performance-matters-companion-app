@@ -23,7 +23,7 @@ router.get('/', (req, res) => {
         }),
         {}
       )
-    const categories = Object.entries(groupBy(questions, 'faq_ca  tegory_id'))
+    const categories = Object.entries(groupBy(questions, 'faq_category_id'))
     res.render('index', {
       sections,
       questions,
