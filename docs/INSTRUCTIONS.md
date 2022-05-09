@@ -14,23 +14,13 @@ In deze sprint wordt het prototype van de Companion App doorontwikkelt. De focus
 Je leert hoe je de (percieved) performance van een bestaande website kan verbeteren.
 
 ## Planning
-
 <table>
-    <tr>
-        <td colspan="4"><b>Week 1</b></td>
-    </tr>
-    <tr>
-        <td>Maandag</td>
-        <td>25 april</td>
-        <td>13:00 uur *</td>
-        <td>Voortgangsgesprek</td>
-    </tr>
     <tr>
         <td colspan="4"><b>Week 3</b></td>
     </tr>
     <tr>
-        <td>Donderdag</td>
-        <td>18 mei</td>
+        <td>Maandag</td>
+        <td>16 mei</td>
         <td>13:00 uur *</td>
         <td>Voortgangsgesprek</td>
     </tr>
