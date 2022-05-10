@@ -10,7 +10,7 @@
   * [Licentie](#licentie)
 
 ## 📃 Beschrijving
-Dit is de repo voor de MijnHvA SSR & PWA. Hierbij wordt de content gerenderd op de server en kan deze app gedownload worden als een Progressive Web App!
+Dit is de repo voor de MijnHvA SSR & PWA. Hierbij wordt de content gerenderd op de server en kan de website gedownload worden als een Progressive Web App!
 
 ## 🔮 Kenmerken
 * 📙 HTML
