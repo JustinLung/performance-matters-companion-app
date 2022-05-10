@@ -40,6 +40,7 @@ npm run start
 
 ## Bronnen
 - [👫 Team 1: MijnHvA Project](https://github.com/boudewijnbout/mijnhvastudent-companion-startpage-autonomous)
+- [👬 Team 2: MijnHvA Project](https://github.com/DaanKorver/keep-users-in-control-mijnhvastudent-companion)
 - [🎨 Styleguide](https://www.figma.com/file/xKeoqRHU91N7f1n43TCtV5/MijnHvA_design_Course_FrontEndDD?node-id=0%3A1)
 - [📚 MijnHvA REST API](https://github.com/fdnd-apis/mijnhva)
 
