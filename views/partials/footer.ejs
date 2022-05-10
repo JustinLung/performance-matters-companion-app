@@ -50,6 +50,15 @@
         })
     }
 
+    //Installing the Service Worker
+    self.addEventListener('install', (event) => {
+        event.waitUntil(
+            caches.open('mijnhva-static-v1').then((cache) => {
+                cache.addAll('../assets/MijnHvA-demo.mp4')
+            })
+        )
+    })
+
 
 </script>
 

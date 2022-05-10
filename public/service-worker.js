@@ -3,6 +3,19 @@ importScripts(
 )
 
 workbox.routing.registerRoute(
-  ({ request }) => request.destination === 'image',
-  new workbox.strategies.CacheFirst()
+  ({ request }) =>
+    request.destination === 'image' ||
+    request.destination === 'script' ||
+    request.destination === 'style',
+  new workbox.strategies.cacheFirst({
+    cacheName: 'workbox-cache',
+    plugins: [
+      new CacheableResponsePlugin({
+        statuses: [200],
+      }),
+      new RangeRequestsPlugin(),
+    ],
+  })
 )
+
+workbox.precaching.precacheAndRoute([])
