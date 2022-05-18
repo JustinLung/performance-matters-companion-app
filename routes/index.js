@@ -38,9 +38,9 @@ router
   })
 
   .get('/detail', (req, res) => {
-    const id = req.body.id
-    getTipById(id).then((data) => {
-      res.render('detail', { data: data.data[0] })
+    const tipId = req.query.id
+    getTipById(tipId).then((tip_id) => {
+      res.render('detail', { data: tip_id.data[0] })
     })
   })
 
