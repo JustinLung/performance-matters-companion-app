@@ -1,4 +1,4 @@
-# 🖱️ MijnHVA
+# 🖱️ MijnHVA - Performance Matters Companion App
 ![Mockup MijnHvA](https://github.com/JustinLung/performance-matters-companion-app/blob/main/docs/mockup.png?raw=true)
 
 ## 📚 Inhoudsopgave
